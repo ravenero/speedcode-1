@@ -1,9 +1,6 @@
 # Ravecodee - Speed Code
 
-[![Version][version-badge]][package]
-[![MIT License][license-badge]][license]
-
-Toast component for React Native, supports Android, IOS and Web
+Speed code source code collection React Native support on Android & iOS
 
 ## Features
 
