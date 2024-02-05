@@ -28,7 +28,7 @@ If this project helped you reduce time to develop, you can buy me a cup of coffe
 
 OR
 
-You can donate me on saweria
+You can donate me on saweria :)
 
 <a href="https://saweria.co/ravecodee" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Saweria_logo.png/1600px-Saweria_logo.png" alt="Saweria" height="50" ></a>
 
