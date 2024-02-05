@@ -30,7 +30,7 @@ OR
 
 You can donate me on saweria
 
-<a href="https://www.buymeacoffee.com/ravecodee" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Saweria_logo.png/1600px-Saweria_logo.png" alt="Buy Me A Coffee" height="50" ></a>
+<a href="https://saweria.co/ravecodee" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Saweria_logo.png/1600px-Saweria_logo.png" alt="Saweria" height="50" ></a>
 
 ## Hire
 
